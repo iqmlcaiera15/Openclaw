@@ -8,10 +8,7 @@
     "telegram": {
       "enabled": true,
       "botToken": "$TELEGRAM_BOT_TOKEN",
-      "allowFrom": ["1045354567"],
-      "dm": {
-        "policy": "allowlist"
-      }
+      "allowFrom": ["1045354567"]
     }
   },
   "agent": {
