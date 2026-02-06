@@ -12,6 +12,6 @@
     }
   },
   "agent": {
-    "model": "anthropic/claude-sonnet-4-20250514"
+    "model": "openrouter/google/gemini-flash-1.5:free"
   }
 }
