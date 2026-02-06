@@ -1,0 +1,13 @@
+{
+  plugins: {
+    telegram: {
+      enabled: true
+    }
+  },
+
+  access: {
+    telegram: {
+      allow: ["1045354567"]
+    }
+  }
+}
