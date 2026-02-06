@@ -5,9 +5,4 @@
     }
   },
 
-  access: {
-    telegram: {
-      allow: ["1045354567"]
-    }
-  }
 }
